@@ -128,7 +128,7 @@ body
   color: black;
   background: #fff; /* fallback color for old browsers */background: rgba(255, 255, 255, 0.3);
   padding: 20px;
-  height: 80px;
+  height: 100px;
 }
 
 button {
